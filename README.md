@@ -2,7 +2,7 @@
 
 Agent-based model (Python, [Mesa](https://mesa.readthedocs.io)) van hoe vertrouwen, groepsidentificatie en silo's ontstaan uit dagelijkse gesprekken in een projectorganisatie, en welke interventies dat tegengaan.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzanneve/silo-model/blob/main/silo_model_colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzannevane/silo-model/blob/main/silo_model_colab.ipynb)
 
 
 ## Wat zit erin
