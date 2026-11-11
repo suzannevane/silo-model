@@ -1,0 +1,8 @@
+scenario,vertrouwen,vertrouwen_p10,vertrouwen_p90,ei,ei_p10,ei_p90,identificatie_engineers,slaagkans
+Basis,0.288,0.265,0.313,-0.349,-0.365,-0.333,0.656,0.54
+Brugfiguren (9),0.303,0.295,0.315,-0.331,-0.343,-0.32,0.612,0.554
+Meer projectcontact,0.338,0.323,0.355,0.035,0.015,0.051,0.531,0.594
+Training werktaal,0.34,0.323,0.356,-0.316,-0.333,-0.302,0.61,0.593
+Gedeeld projectdoel,0.376,0.352,0.395,-0.301,-0.317,-0.286,0.582,0.631
+Plat organiseren,0.379,0.357,0.397,-0.33,-0.352,-0.312,0.627,0.577
+Alles samen,0.604,0.584,0.627,0.111,0.09,0.127,0.362,0.767
